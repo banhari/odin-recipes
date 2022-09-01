@@ -1,0 +1,16 @@
+h1 {
+  background-color: #b8860b;
+  color: navy;
+  font-size: 32px;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-weight: 700;
+}
+
+.one {
+  background-color: aqua;
+}
+
+.three {
+  background-color: blanchedalmond;
+  color: rgb(226, 43, 186);
+}
