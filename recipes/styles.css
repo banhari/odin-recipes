@@ -1,0 +1,43 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  text-emphasis: bold;
+  color: darkgoldenrod;
+  font-size: 64px;
+  font-style: italic;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside
+  width: 980px;
+  margin: 0 auto;
+}
+
+ol {
+  text-align: center;
+  list-style-position: inside
+}
+
+div.container {
+  text-align: left;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
+.intro {
+  background-color: bisque;
+}
+
+.steps {
+  background-color: dimgrey;
+}
+
+.highlight {
+  background-color: yellow;
+}
